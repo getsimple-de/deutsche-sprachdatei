@@ -6,7 +6,7 @@
 * @Subject:			DE Deutsche Sprachdatei
 * @Version:			GetSimple 2.0 / GetSimple 3.0
 * @Status:			Final  
-* @Traductors: 			polyfragmented / Connie
+* @Traductors: 		Connie + polyfragmented
 *****************************************************/
 
 $i18n = array(
@@ -210,12 +210,12 @@ $i18n = array(
 "LANGUAGE"				=>	"Sprache",
 "USE_FANCY_URLS"		=>	"<b>Nutze freundliche URLs</b> - Erfordert 'mod_rewrite' auf Ihrem Server",
 "ENABLE_HTML_ED"		=>	"<b>HTML Editor aktivieren</b>",
-"WARN_EMAILINVALID"		=>	"Hinweis: Die angegebene E-Mail - Adresse scheint nicht g&uuml;ltig zu sein",
+"WARN_EMAILINVALID"		=>	"Hinweis: Die angegebene E-Mail-Adresse scheint nicht g&uuml;ltig zu sein",
 "ONLY_NEW_PASSWORD"		=>	"Wenn Sie Ihr Passwort &auml;ndern m&ouml;chten, geben Sie das neue Passwort hier ein",
 "NEW_PASSWORD"			=>	"Neues Passwort",
 "CONFIRM_PASSWORD"		=>	"Passwort wiederholen",
 "PASSWORD_NO_MATCH"		=>	"Die Passw&ouml;rter scheinen nicht &uuml;bereinzustimmen",
-"PERMALINK" 			=> 	"Custom Permalink Structure",
+"PERMALINK" 			=> 	"Permalink-Struktur",
 "MORE" 					=> 	"Mehr Info ..",
 "HELP" 					=> 	"Hilfe",
 
@@ -262,7 +262,7 @@ $i18n = array(
 /* 
  * For: archive.php
 */
-"SUCC_WEB_ARCHIVE"		=>	"Website wurde erfolgreich archiviert!",
+"SUCC_WEB_ARCHIVE"		=>	"Website wurde erfolgreich archiviert",
 "SUCC_WEB_ARC_DEL"		=>	"Website-Archiv erfolgreich gel&ouml;scht",
 "WEBSITE_ARCHIVES"		=>	"Website-Archiv",
 "ARCHIVE_DELETED"		=>	"Archiv erfolgreich gel&ouml;scht",
@@ -295,7 +295,7 @@ $i18n = array(
 /* 
  * For: sidebar-support.php
 */
-"SIDE_SUPPORT_LOG"		=>	"Supp<em>o</em>rt Einstellungen &amp; Logs",
+"SIDE_SUPPORT_LOG"		=>	"Supp<em>o</em>rt-Einstellungen &amp; Logs",
 "SIDE_VIEW_LOG"			=>	"Log anzeigen",
 "SIDE_HEALTH_CHK"		=>	"Website Serverpr&uuml;fung",
 "SIDE_DOCUMENTATION"	=>	"<em>D</em>okumentation",
