@@ -1,11 +1,11 @@
 <?php
 /****************************************************
 *
-* @File: 			de_DE.php
+* @File: 			de_DE.php  | Version 1.0.4
 * @Package:			GetSimple
 * @Subject:			DE Deutsche Sprachdatei
 * @Version:			GetSimple 2.0 / GetSimple 3.0
-* @Status:			Final  
+* @Status:			Final | May 31, 2011
 * @Traductors: 		Connie + polyfragmented
 *****************************************************/
 
@@ -264,7 +264,7 @@ $i18n = array(
 */
 "SUCC_WEB_ARCHIVE"		=>	"Website wurde erfolgreich archiviert",
 "SUCC_WEB_ARC_DEL"		=>	"Website-Archiv erfolgreich gel&ouml;scht",
-"WEBSITE_ARCHIVES"		=>	"Website-Archiv",
+"WEBSITE_ARCHIVES"		=>	"Komplett-Sicherungen (ZIP-Archive)",
 "ARCHIVE_DELETED"		=>	"Archiv erfolgreich gel&ouml;scht",
 "CREATE_NEW_ARC"		=>	"Neues Archiv erstellen",
 "ASK_CREATE_ARC"		=>	"Neues Archiv erstellen?",
@@ -325,8 +325,8 @@ $i18n = array(
  * For: sidebar-pages.php
 */
 "SIDE_VIEW_BAK"			=>	"Sicherung der Seite anzeigen",
-"SIDE_WEB_ARCHIVES"		=>	"<em>W</em>ebsite-Archiv",
-"SIDE_PAGE_BAK"			=>	"<em>S</em>icherungen der Website",
+"SIDE_WEB_ARCHIVES"		=>	"<em>K</em>omplett-Sicherungen (ZIP)",
+"SIDE_PAGE_BAK"			=>	"gesicherte <em>S</em>eiten",
 
 /* 
  * For: error_checking.php
@@ -351,7 +351,7 @@ $i18n = array(
 /* 
  * For: changedata.php
 */
-"CANNOT_SAVE_EMPTY"		=>	"Sie k&ouml;nnen keine leere Seite abspeichern",
+"CANNOT_SAVE_EMPTY"		=>	"Sie k&ouml;nnen keine leere Seite oder eine Seite ohne Titel abspeichern",
 "META_DESC" 			=>  "Meta-Beschreibung",
 
 /* 
@@ -378,7 +378,7 @@ $i18n = array(
  * For: Date Format
 */
 "DATE_FORMAT"			=>	"d.M Y",
-"DATE_AND_TIME_FORMAT"	=>	"F jS, Y - g:i A", //Datum und Zeitangaben
+"DATE_AND_TIME_FORMAT"	=>	"d.m.Y - H:i", //Datum und Zeitangaben
 
 
 /***********************************************************************************
@@ -467,7 +467,7 @@ $i18n = array(
 "DOUBLE_CLICK_EDIT"			=> "Zum Bearbeiten zweimal klicken", //components
 "THUMB_SAVED"				=> "Thumbnail wurde gespeichert", //image
 "EDIT_COMPONENTS"			=> "Komponenten bearbeiten", //components
-"REQS_MORE_INFO"			=> "Weitere Informationen zu den ben&ouml;tigten Modulen finden Sie auf <a href=\"%s\" target=\"_blank\" >requirements page</a>.", //install & health-check
+"REQS_MORE_INFO"			=> "Weitere Informationen zu den ben&ouml;tigten Modulen finden Sie auf <a href=\"%s\" target=\"_blank\" >Seite mit den Mindest-Anforderungen</a>.", //install & health-check
 "SYSTEM_UPDATE" 			=> "System-Update", // update.php
 "AUTHOR" 					=> "Autor", //plugins.php
 "ENABLE" 					=> "Aktivieren", //plugins.php
